@@ -29,6 +29,7 @@
     .myphoto{text-align: center;}
 
     /*COLLUPSABLE NAVIGATION MENU*/
+    
     .navbar-header {float: none;}
     .navbar-left,.navbar-right {float: none !important;}
     .navbar-toggle {display: block;}
